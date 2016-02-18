@@ -6,6 +6,7 @@ Handwriting Project-PR-TUDelft
 This project consists of an automatic handwriting letters recognition system for two different scenarios:
 
 Few available tranning data
+
 Huge ammount of tranning data
 Students:
 
